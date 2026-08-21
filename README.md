@@ -12,8 +12,8 @@
 | 项目 | 简介 | 技术与特点 |
 |---|---|---|
 | [junruguo‑portfolio](https://github.com/suhuideyu/junruguo‑portfolio) | 面向售前与解决方案工程师岗位的中文个人网站源码。 | React、TypeScript、GSAP；响应式排版、低动态模式，静态部署。 |
-| [skills / ppt‑generator](https://github.com/suhuideyu/skills/tree/main/ppt-generator) | PPT批量生成工具，基于本地模板完成演示文稿输出，全部文件本地处理。 | Python脚本、PPT模板引擎；本地优先，不向外提交用户文档数据。 |
-| [JobArchiveTool](https://github.com/suhuideyu/JobArchiveTool) | 浏览器扩展：预览、脱敏并辅助填写网申表单，不自动提交。 | Chrome/Edge Extension；不自动提交、不上传隐私资料。 |
+| [skills / PPT 生成器](https://github.com/suhuideyu/skills/tree/main/ppt-generator) | PPT批量生成工具，基于本地模板完成演示文稿输出，全部文件本地处理。 | Python脚本、PPT模板引擎；本地优先，不向外提交用户文档数据。 |
+| [JobArchive_网申助手](https://github.com/suhuideyu/JobArchiveTool) | 浏览器扩展：预览、脱敏并辅助填写网申表单，不自动提交。 | Chrome/Edge Extension；不自动提交、不上传隐私资料。 |
 | [douyin_opinion_analysis](https://github.com/suhuideyu/douyin_opinion_analysis) | 公开网络评论采集、数据清洗、可视化与文本AI分析工具，原始数据本地留存处理。 | Python、爬虫、NLP文本处理、数据可视化；本地优先，原始采集数据保存在本机。 |
 
 ## 学习与其他实践
