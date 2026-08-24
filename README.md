@@ -14,7 +14,7 @@
 | 项目 | 简介 | 技术与特点 |
 |---|---|---|
 | [个人求职作品集](https://github.com/suhuideyu/junruguo-portfolio) | 面向售前与解决方案工程师岗位的中文个人网站源码。 | React、TypeScript、GSAP；响应式排版、低动态模式，静态部署。 |
-| [skills / ppt生成器](https://github.com/suhuideyu/skills/tree/main/ppt-generator) | PPT批量生成工具，基于本地模板完成演示文稿输出，全部文件本地处理。 | Python脚本、PPT模板引擎；本地优先，不向外提交用户文档数据。 |
+| [ppt生成器Skill](https://github.com/suhuideyu/skills/tree/main/ppt-generator) | PPT批量生成工具，基于本地模板完成演示文稿输出，全部文件本地处理。 | Python脚本、PPT模板引擎；本地优先，不向外提交用户文档数据。 |
 | [JobArchive-网申助手](https://github.com/suhuideyu/JobArchiveTool) | 浏览器扩展：预览、脱敏并辅助填写网申表单，不自动提交。 | Chrome/Edge Extension；不自动提交、不上传隐私资料。 |
 | [douyin_opinion_analysis](https://github.com/suhuideyu/douyin_opinion_analysis) | 公开网络评论采集、数据预处理、可视化及文本智能分析工具。 | Python、网络爬虫、NLP文本分析、数据可视化；遵循本地优先设计，原始采集数据不在本地文件系统持久留存，业务有效数据持久存放于数据库。 |
 
